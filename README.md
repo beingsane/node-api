@@ -4,6 +4,6 @@ API de produtos desenvolvida no curso de NodeJS da [RocketSeat](https://rocketse
 # Sobre
 API desenvolvida com as seguintes ferramentas:
 * Express
-* Docker
+* Docker 
 * MongoDB
 * Mongoose
